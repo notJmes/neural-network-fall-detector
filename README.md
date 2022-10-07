@@ -16,12 +16,17 @@ While exisiting hardware has remained as a reliable solution in the market, not 
 
     * Although 33 coordinates are taken in as our input data, our tensor shape takes in 99 input values since each coordinate has x, y and z values.
     
-    <div width="100%" style='margin-top: 10px; margin-bottom: 10px;'>
+    
+    *What is displayed when a subject falls:*
+    
     <image src="img/fall.png" width="50%" style="float: left;">
+    
+    *What is displayed when a subject has not fallen:*
+    
     <image src="img/no_fall.png" width="50%" style="float: right;">
-    </div>
+    
+    
 
-    *Left: What is displayed when a subject falls; Right: What is displayed when a subject has not fallen.*
 3. The third component is in development where our recepients would be notified should a fall be detected in a live video feed.
 
 ## Studying our prediction model
