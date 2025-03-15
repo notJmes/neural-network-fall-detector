@@ -18,16 +18,16 @@ While exisiting hardware has remained as a reliable solution in the market, not 
     
     
     *What is displayed when a subject falls:*
-    
-    <image src="img/fall.png" width="50%" style="float: left;">
+   
+    ![fall](img/fall.png)
     
     *What is displayed when a subject has not fallen:*
-    
-    <image src="img/no_fall.png" width="50%" style="float: right;">
+   
+    ![no fall](img/no_fall.png)
     
     
 
-3. The third component is in development where our recepients would be notified should a fall be detected in a live video feed.
+4. The third component is in development where our recepients would be notified should a fall be detected in a live video feed.
 
 ## Studying our prediction model
 
